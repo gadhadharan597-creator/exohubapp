@@ -5,3 +5,8 @@ matplotlib
 seaborn
 scikit-learn
 requests
+python-dotenv
+google-genai
+pydantic
+httpx
+joblib
